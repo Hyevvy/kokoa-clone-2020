@@ -4,6 +4,7 @@
 /*components*/
 @import "component/statusbar.css";
 @import "component/nav-bar.css";
+@import "component/screen-header.css";
 /*components*/
 @import "screens/login.css";
 body {
