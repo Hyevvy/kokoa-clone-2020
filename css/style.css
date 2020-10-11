@@ -5,7 +5,8 @@
 @import "component/statusbar.css";
 @import "component/nav-bar.css";
 @import "component/screen-header.css";
-/*components*/
+@import "component/user-component.css";
+/*screens*/
 @import "screens/login.css";
 body {
   font-family: "Open Sans", sans-serif;
