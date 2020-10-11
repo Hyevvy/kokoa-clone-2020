@@ -8,6 +8,8 @@
 @import "component/user-component.css";
 /*screens*/
 @import "screens/login.css";
+@import "screens/friends.css";
 body {
+  color: #2e363e;
   font-family: "Open Sans", sans-serif;
 }
