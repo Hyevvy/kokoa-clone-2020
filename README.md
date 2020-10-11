@@ -1,3 +1,4 @@
-#kokoa clone 2020 Update
+🥰  This is my first Clone Coding  🥰
+Thank You for reading my Kokoa Clone 💖
 
-HTML & CSS are so much fun !
+✔ HTML & CSS 
